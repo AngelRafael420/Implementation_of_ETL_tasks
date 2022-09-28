@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Practice2XLStoSQL", "Practice2XLStoSQL\Practice2XLStoSQL.dtproj", "{F92C61DF-0758-4578-A791-E720D331F1D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F92C61DF-0758-4578-A791-E720D331F1D5}.Development|Default.ActiveCfg = Development
+		{F92C61DF-0758-4578-A791-E720D331F1D5}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDB4C4E2-E7C6-4C3A-8F49-9714CDFB5AF2}
+	EndGlobalSection
+EndGlobal
